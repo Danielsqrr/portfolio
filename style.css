@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(rgb(19, 184, 129), rgb(128, 26, 168), greenyellow);
+   text-align: center;
+   font-size: 500px;
+ 
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
+
+

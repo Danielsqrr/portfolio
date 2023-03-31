@@ -1,0 +1,22 @@
+body{
+    background-image: linear-gradient(rgb(19, 184, 129), rgb(57, 60, 199), rgb(51, 53, 151));
+    text-align: center;
+    font-size: 500px;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    border-radius: 10px green ;
+}
+
+
+div{
+    font-size: 30px;
+    text-align: left;
+   
+}
+a{
+    color: black;
+    border: 0.5px solid rgb(2, 96, 112) ;
+   
+}
